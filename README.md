@@ -8,7 +8,7 @@ The Hospital Management System is designed to store and manage essential data re
 
 ## Functions used
 
-drfetchdata()-     Display the details of doctors 
+drfetchdata()-     Display the details of doctors __
 patfetchdata()-    Display the details of patients  
 dradddata()-       To add details of doctors 
 patadddata()-      To add details of patients 
