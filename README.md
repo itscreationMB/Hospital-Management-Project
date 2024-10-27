@@ -7,18 +7,16 @@ The Hospital Management System is designed to store and manage essential data re
 -  MySQL Workbench
 
 ## Functions used
- 
-FUNCTIONS  
-NAME                    DESCRIPTION 
-drfetchdata()-         Display the details of doctors 
-patfetchdata()-        Display the details of patients  
-dradddata()-           To add details of doctors 
-patadddata()-          To add details of patients 
-drdeldata()-           To delete the details of doctors  
-patdeldata()-          To delete the details of patients 
-apadddata()-           To add the appointment details   
-apupdata()-            To modify the appointment details  
-apdeldata()-           To delete the appointment details  
+
+drfetchdata()-     Display the details of doctors 
+patfetchdata()-    Display the details of patients  
+dradddata()-       To add details of doctors 
+patadddata()-      To add details of patients 
+drdeldata()-       To delete the details of doctors  
+patdeldata()-      To delete the details of patients 
+apadddata()-       To add the appointment details   
+apupdata()-        To modify the appointment details  
+apdeldata()-       To delete the appointment details  
  
 ## Concepts used
 
